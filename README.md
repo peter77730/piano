@@ -1,3 +1,3 @@
 ## piano
 
-DEMO https://peter77730.github.io/piano/
+- 🔭 DEMO [piano](https://peter77730.github.io/piano/)
